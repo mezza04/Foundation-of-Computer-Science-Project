@@ -56,8 +56,8 @@ For each country there are two files:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repository>.git
-   cd <your-repository>
+   git clone https://github.com/mezza04/Foundation-of-Computer-Science-Project.git
+   cd Foundation-of-Computer-Science-Project
    ```
 2. Install the dependencies:
    ```bash
